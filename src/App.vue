@@ -71,7 +71,7 @@ h1{
   padding: 10px;
   margin-right: 102px;
   font-size: 50px;
-  color: #1f0471;
+  color: #928f9b;
 
 }
 </style>
